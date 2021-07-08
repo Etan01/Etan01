@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Etan01
 - 👀 I’m interested in data analyst
 - 🌱 I’m currently learning on machine learning
-- 💞️ I’m looking to collaborate on any challenging projects
+- 💞️ I’m looking forward to collaborate on any challenging projects
 - 📫 Reach me by email engteck01@gmail.com
 
 <!---
