@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Etan01
-- 👀 I’m interested in data analyst
-- 🌱 I’m currently learning on machine learning
+- 👀 I’m interested in big data, data analytic and visualisation
+- 🌱 I’m currently learning on machine learning & deep learning
 - 💞️ I’m looking forward to collaborate on any challenging projects
 - 📫 Reach me by email engteck01@gmail.com
 
