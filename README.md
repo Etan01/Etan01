@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Etan01
+- 👋 Hi, I’m Eng Teck
 - 👀 I’m interested in big data, data analytic and visualisation
 - 🌱 I’m currently learning on machine learning & deep learning
 - 💞️ I’m looking forward to collaborate on any challenging projects
